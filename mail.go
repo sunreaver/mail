@@ -4,9 +4,7 @@ package mail
 
 import (
 	"crypto/tls"
-	"encoding/json"
 	"fmt"
-	"io/ioutil"
 	"net"
 	"net/smtp"
 	"strings"
